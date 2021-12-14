@@ -1,5 +1,7 @@
 # learn_git_note
 
+Learn from freecodecamp course on Youtube https://youtu.be/RGOj5yH7evk
+
 ## Git command
 
 git status\
